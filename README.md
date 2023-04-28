@@ -1,2 +1,2 @@
 # FridgeApp
-Many widgets on one Pygame window
+many widgets on one pygame window
